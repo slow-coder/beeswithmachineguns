@@ -72,7 +72,7 @@
         },
         {
             "RegionName": "eu-west-3",
-            "AMI" : "ami-cae150b7",
+            "AMI" : "ami-2c9a2b51",
             "Endpoint": "ec2.eu-west-3.amazonaws.com"
         }
     ]
