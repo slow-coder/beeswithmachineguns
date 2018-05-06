@@ -69,6 +69,11 @@
             "RegionName": "ca-central-1",
             "AMI" : "ami-d92891bd",
             "Endpoint": "ec2.ca-central-1.amazonaws.com"
+        },
+        {
+            "RegionName": "eu-west-3",
+            "AMI" : "ami-cae150b7",
+            "Endpoint": "ec2.eu-west-3.amazonaws.com"
         }
     ]
 }
